@@ -1,0 +1,4 @@
+{ID=123456789,Owner=Bob Law,Address=123 Bob Law Street,Phone Number=7055555555,Balance=100.0,VehicleType=1,Make=Tesla,Model=Model 3,Charge=20.0,totalCharge=75.0,chargeRate=22.0,superchargeRate=120.0}
+{ID=259863587,Owner=Horos Aitken,Address=3283  Lynden Road,Phone Number=7055572051,Balance=257.0,VehicleType=0,Make=Chevrolet,Model=BOLT,Charge=9.0,totalCharge=66.0,chargeRate=3.7}
+{ID=403521436,Owner=Chimwala Quigg,Address=1040  Blanshard,Phone Number=5196359076,Balance=314.0,VehicleType=0,Make=smart,Model=fortwo,Charge=2.0,totalCharge=17.6,chargeRate=3.7}
+{ID=590844060,Owner=Eustace Saqui,Address=123 Main street,Phone Number=7051234578,Balance=54.75989171798216,VehicleType=1,Make=Tesla,Model=Model X,Charge=79.846986846635,totalCharge=100.0,chargeRate=22.0,superchargeRate=250.0}
